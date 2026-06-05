@@ -1,11 +1,9 @@
-<h1 align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="echo-logo-text.png" width="300">
     <img src="public/echo-logo-text.png" alt="Echo  Encrypted Messaging" width="300">
   </picture>
-</h1>
-
-# Echo Protocol Organization
+</p>
 
 Echo is an end-to-end encrypted messaging platform composed of three coordinated repositories:
 
